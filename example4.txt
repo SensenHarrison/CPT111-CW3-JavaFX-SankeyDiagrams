@@ -1,0 +1,11 @@
+Family Bill
+Total
+Paul 400
+Lennon 300
+Harrison 500
+Ringo 400
+Linda 300
+Yoko 400
+Boyd 200
+Bach 300
+Martin 300
